@@ -1,0 +1,410 @@
+[
+    {
+        "cell_type": "neutrophil",
+        "precision": 0.9746689694876224,
+        "recall": 0.9735480161012076,
+        "f1": 0.974108170310702
+    },
+    {
+        "cell_type": "cortical_thymic_epithelial_cell",
+        "precision": 0.9674149167270094,
+        "recall": 0.9716363636363636,
+        "f1": 0.969521044992743
+    },
+    {
+        "cell_type": "monocyte",
+        "precision": 0.9648148148148148,
+        "recall": 0.96036866359447,
+        "f1": 0.9625866050808314
+    },
+    {
+        "cell_type": "B_cell",
+        "precision": 0.9749478079331941,
+        "recall": 0.9307067300321937,
+        "f1": 0.9523137254901961
+    },
+    {
+        "cell_type": "medullary_thymic_epithelial_cell",
+        "precision": 0.9652087475149106,
+        "recall": 0.9177693761814745,
+        "f1": 0.9408914728682171
+    },
+    {
+        "cell_type": "double_positive_alpha_beta_thymocyte",
+        "precision": 0.9337964854924398,
+        "recall": 0.9478050466643623,
+        "f1": 0.9407486190688579
+    },
+    {
+        "cell_type": "mast_cell",
+        "precision": 0.9433551198257081,
+        "recall": 0.9372294372294372,
+        "f1": 0.9402823018458197
+    },
+    {
+        "cell_type": "plasmacytoid_dendritic_cell",
+        "precision": 0.9944444444444445,
+        "recall": 0.8905472636815921,
+        "f1": 0.9396325459317585
+    },
+    {
+        "cell_type": "lung_ciliated_cell",
+        "precision": 0.9295774647887324,
+        "recall": 0.9416342412451362,
+        "f1": 0.9355670103092784
+    },
+    {
+        "cell_type": "fibroblast",
+        "precision": 0.940123657663521,
+        "recall": 0.9194780394653087,
+        "f1": 0.9296862429605792
+    },
+    {
+        "cell_type": "cholangiocyte",
+        "precision": 0.9759519038076152,
+        "recall": 0.8790613718411552,
+        "f1": 0.9249762583095916
+    },
+    {
+        "cell_type": "endothelial_cell_of_pericentral_hepatic_sinusoid",
+        "precision": 0.9792817679558011,
+        "recall": 0.8683404776484996,
+        "f1": 0.9204803635183382
+    },
+    {
+        "cell_type": "pulmonary_alveolar_type_2_cell",
+        "precision": 0.8921026974325642,
+        "recall": 0.9442724458204335,
+        "f1": 0.9174465240641712
+    },
+    {
+        "cell_type": "double_negative_thymocyte",
+        "precision": 0.905510609067318,
+        "recall": 0.9188351920693928,
+        "f1": 0.9121242407934189
+    },
+    {
+        "cell_type": "conventional_dendritic_cell",
+        "precision": 0.9461400359066428,
+        "recall": 0.8739635157545605,
+        "f1": 0.9086206896551724
+    },
+    {
+        "cell_type": "vascular_associated_smooth_muscle_cell",
+        "precision": 0.9137931034482759,
+        "recall": 0.8952702702702703,
+        "f1": 0.9044368600682594
+    },
+    {
+        "cell_type": "classical_monocyte",
+        "precision": 0.8991863717264175,
+        "recall": 0.9087755364255429,
+        "f1": 0.9039555243146526
+    },
+    {
+        "cell_type": "endothelial_cell_of_lymphatic_vessel",
+        "precision": 0.9088145896656535,
+        "recall": 0.8925373134328358,
+        "f1": 0.9006024096385542
+    },
+    {
+        "cell_type": "megakaryocyte",
+        "precision": 0.9766763848396501,
+        "recall": 0.8333333333333334,
+        "f1": 0.8993288590604027
+    },
+    {
+        "cell_type": "naive_B_cell",
+        "precision": 0.8684167350287121,
+        "recall": 0.9264834587782251,
+        "f1": 0.8965108401084011
+    },
+    {
+        "cell_type": "alveolar_macrophage",
+        "precision": 0.9124250617138827,
+        "recall": 0.8783523820301007,
+        "f1": 0.8950645756457565
+    },
+    {
+        "cell_type": "dendritic_cell",
+        "precision": 0.9803921568627451,
+        "recall": 0.8035714285714286,
+        "f1": 0.8832188420019627
+    },
+    {
+        "cell_type": "hematopoietic_precursor_cell",
+        "precision": 0.8727932285368802,
+        "recall": 0.8521841794569067,
+        "f1": 0.8623655913978494
+    },
+    {
+        "cell_type": "hematopoietic_multipotent_progenitor_cell",
+        "precision": 0.8351508663945942,
+        "recall": 0.8629199502281211,
+        "f1": 0.8488083500492979
+    },
+    {
+        "cell_type": "non_classical_monocyte",
+        "precision": 0.8796430294259527,
+        "recall": 0.8065015479876161,
+        "f1": 0.8414859252422704
+    },
+    {
+        "cell_type": "macrophage",
+        "precision": 0.8208781929491239,
+        "recall": 0.8539584934665642,
+        "f1": 0.8370916527635757
+    },
+    {
+        "cell_type": "epithelial_cell",
+        "precision": 0.9388067312595615,
+        "recall": 0.7270932069510269,
+        "f1": 0.8194969953260628
+    },
+    {
+        "cell_type": "CD16_positive_CD56_dim_natural_killer_cell",
+        "precision": 0.804674811100911,
+        "recall": 0.8259640475500145,
+        "f1": 0.8151804556998248
+    },
+    {
+        "cell_type": "natural_killer_cell",
+        "precision": 0.8426730596344022,
+        "recall": 0.7559139784946236,
+        "f1": 0.7969392092957347
+    },
+    {
+        "cell_type": "inflammatory_macrophage",
+        "precision": 0.8840155945419104,
+        "recall": 0.7244408945686901,
+        "f1": 0.7963125548726954
+    },
+    {
+        "cell_type": "naive_thymus_derived_CD4_positive_alpha_beta_T_cell",
+        "precision": 0.7682071569861536,
+        "recall": 0.8201190247648301,
+        "f1": 0.7933147632311978
+    },
+    {
+        "cell_type": "periportal_region_hepatocyte",
+        "precision": 0.7418483156188074,
+        "recall": 0.8260782347041123,
+        "f1": 0.781700835231587
+    },
+    {
+        "cell_type": "central_memory_CD4_positive_alpha_beta_T_cell",
+        "precision": 0.8071497584541063,
+        "recall": 0.7499775563336026,
+        "f1": 0.7775140769696124
+    },
+    {
+        "cell_type": "centrilobular_region_hepatocyte",
+        "precision": 0.8073646606210497,
+        "recall": 0.7240019714144899,
+        "f1": 0.7634143172664675
+    },
+    {
+        "cell_type": "smooth_muscle_cell_of_the_pulmonary_artery",
+        "precision": 0.8541666666666666,
+        "recall": 0.6897196261682244,
+        "f1": 0.7631851085832472
+    },
+    {
+        "cell_type": "fibroblast_of_lung",
+        "precision": 0.7139689578713969,
+        "recall": 0.8162230671736375,
+        "f1": 0.7616794795978711
+    },
+    {
+        "cell_type": "pulmonary_alveolar_type_1_cell",
+        "precision": 0.7401960784313726,
+        "recall": 0.7743589743589744,
+        "f1": 0.7568922305764411
+    },
+    {
+        "cell_type": "mononuclear_phagocyte",
+        "precision": 0.9026063100137174,
+        "recall": 0.6290630975143403,
+        "f1": 0.7414084507042253
+    },
+    {
+        "cell_type": "endothelial_cell",
+        "precision": 0.939117199391172,
+        "recall": 0.6010716025328787,
+        "f1": 0.732996732996733
+    },
+    {
+        "cell_type": "CD16_negative_CD56_bright_natural_killer_cell",
+        "precision": 0.884393063583815,
+        "recall": 0.6239238785681921,
+        "f1": 0.7316684378320936
+    },
+    {
+        "cell_type": "vein_endothelial_cell",
+        "precision": 0.8294270833333334,
+        "recall": 0.6440849342770475,
+        "f1": 0.7250996015936255
+    },
+    {
+        "cell_type": "capillary_endothelial_cell",
+        "precision": 0.693093727977449,
+        "recall": 0.7369801423754215,
+        "f1": 0.7143635373161431
+    },
+    {
+        "cell_type": "T_cell",
+        "precision": 0.8673119580560597,
+        "recall": 0.6046675101926051,
+        "f1": 0.7125579854208085
+    },
+    {
+        "cell_type": "alveolar_capillary_type_2_endothelial_cell",
+        "precision": 0.6832350463352991,
+        "recall": 0.7392889699179581,
+        "f1": 0.7101576182136602
+    },
+    {
+        "cell_type": "endothelial_cell_of_artery",
+        "precision": 0.800453514739229,
+        "recall": 0.6139130434782609,
+        "f1": 0.6948818897637795
+    },
+    {
+        "cell_type": "CD4_positive_helper_T_cell",
+        "precision": 0.71866874674987,
+        "recall": 0.6705482775351771,
+        "f1": 0.6937751004016064
+    },
+    {
+        "cell_type": "CD8_alpha_alpha_positive_alpha_beta_intraepithelial_T_cell",
+        "precision": 0.831989247311828,
+        "recall": 0.575813953488372,
+        "f1": 0.680593732820231
+    },
+    {
+        "cell_type": "mucosal_invariant_T_cell",
+        "precision": 0.7946934569809376,
+        "recall": 0.5802144066202746,
+        "f1": 0.6707250788129144
+    },
+    {
+        "cell_type": "memory_B_cell",
+        "precision": 0.7119266055045872,
+        "recall": 0.563953488372093,
+        "f1": 0.6293592862935928
+    },
+    {
+        "cell_type": "naive_thymus_derived_CD8_positive_alpha_beta_T_cell",
+        "precision": 0.7470449172576832,
+        "recall": 0.5134037367993501,
+        "f1": 0.6085700529610014
+    },
+    {
+        "cell_type": "effector_memory_CD8_positive_alpha_beta_T_cell_terminally_differentiated",
+        "precision": 0.7125933138591366,
+        "recall": 0.5269410776431057,
+        "f1": 0.6058640910658848
+    },
+    {
+        "cell_type": "CD8_positive_alpha_beta_T_cell",
+        "precision": 0.7507552870090635,
+        "recall": 0.5015136226034309,
+        "f1": 0.6013309134906231
+    },
+    {
+        "cell_type": "effector_memory_CD4_positive_alpha_beta_T_cell",
+        "precision": 0.7115165336374002,
+        "recall": 0.5146816232266579,
+        "f1": 0.5973006604766918
+    },
+    {
+        "cell_type": "regulatory_T_cell",
+        "precision": 0.8112724167378309,
+        "recall": 0.4556354916067146,
+        "f1": 0.5835380835380836
+    },
+    {
+        "cell_type": "effector_memory_CD8_positive_alpha_beta_T_cell",
+        "precision": 0.7253919508647163,
+        "recall": 0.45484949832775917,
+        "f1": 0.5591129936464433
+    },
+    {
+        "cell_type": "central_memory_CD8_positive_alpha_beta_T_cell",
+        "precision": 0.6889185580774366,
+        "recall": 0.4696601941747573,
+        "f1": 0.5585423056106802
+    },
+    {
+        "cell_type": "CD8_positive_alpha_beta_cytotoxic_T_cell",
+        "precision": 0.6291161178509532,
+        "recall": 0.4820717131474104,
+        "f1": 0.5458646616541354
+    },
+    {
+        "cell_type": "CD4_positive_alpha_beta_T_cell",
+        "precision": 0.7441451990632318,
+        "recall": 0.4229617304492512,
+        "f1": 0.5393592191809887
+    },
+    {
+        "cell_type": "CD4_positive_alpha_beta_memory_T_cell",
+        "precision": 0.6135593220338983,
+        "recall": 0.40492170022371365,
+        "f1": 0.48787061994609165
+    },
+    {
+        "cell_type": "midzonal_region_hepatocyte",
+        "precision": 0.7703081232492998,
+        "recall": 0.35324341682723187,
+        "f1": 0.484368119771026
+    },
+    {
+        "cell_type": "alpha_beta_T_cell",
+        "precision": 0.7204301075268817,
+        "recall": 0.35914234663490174,
+        "f1": 0.4793322734499205
+    },
+    {
+        "cell_type": "class_switched_memory_B_cell",
+        "precision": 0.7306273062730627,
+        "recall": 0.35325602140945583,
+        "f1": 0.476247745039086
+    },
+    {
+        "cell_type": "leukocyte",
+        "precision": 0.8032128514056225,
+        "recall": 0.273224043715847,
+        "f1": 0.4077471967380224
+    },
+    {
+        "cell_type": "effector_memory_CD4_positive_alpha_beta_T_cell_terminally_differentiated",
+        "precision": 0.6928571428571428,
+        "recall": 0.21797752808988763,
+        "f1": 0.3316239316239316
+    },
+    {
+        "cell_type": "CD8_positive_alpha_beta_memory_T_cell",
+        "precision": 0.7575757575757576,
+        "recall": 0.20491803278688525,
+        "f1": 0.3225806451612903
+    },
+    {
+        "cell_type": "CD4_positive_alpha_beta_cytotoxic_T_cell",
+        "precision": 0.6379310344827587,
+        "recall": 0.19072164948453607,
+        "f1": 0.29365079365079366
+    },
+    {
+        "cell_type": "unswitched_memory_B_cell",
+        "precision": 0.49019607843137253,
+        "recall": 0.12987012987012986,
+        "f1": 0.2053388090349076
+    },
+    {
+        "cell_type": "gamma_delta_T_cell",
+        "precision": 0.7368421052631579,
+        "recall": 0.023246160232461604,
+        "f1": 0.04507042253521127
+    }
+]

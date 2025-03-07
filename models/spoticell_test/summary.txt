@@ -1,0 +1,20 @@
+Total training time: 20h 14m 42.48s
+Best model saved at epoch 47
+Best validation F1: 0.7818
+Test F1: 0.7826
+Test Precision: 0.8375
+Test Recall: 0.7522
+
+Top 5 cell types by F1 score:
+neutrophil: F1=0.9741, Precision=0.9747, Recall=0.9735
+cortical_thymic_epithelial_cell: F1=0.9695, Precision=0.9674, Recall=0.9716
+monocyte: F1=0.9626, Precision=0.9648, Recall=0.9604
+B_cell: F1=0.9523, Precision=0.9749, Recall=0.9307
+medullary_thymic_epithelial_cell: F1=0.9409, Precision=0.9652, Recall=0.9178
+
+Bottom 5 cell types by F1 score:
+effector_memory_CD4_positive_alpha_beta_T_cell_terminally_differentiated: F1=0.3316, Precision=0.6929, Recall=0.2180
+CD8_positive_alpha_beta_memory_T_cell: F1=0.3226, Precision=0.7576, Recall=0.2049
+CD4_positive_alpha_beta_cytotoxic_T_cell: F1=0.2937, Precision=0.6379, Recall=0.1907
+unswitched_memory_B_cell: F1=0.2053, Precision=0.4902, Recall=0.1299
+gamma_delta_T_cell: F1=0.0451, Precision=0.7368, Recall=0.0232
