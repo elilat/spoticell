@@ -42,7 +42,7 @@ The current implementation uses multiple public datasets from the Cell xGene Cen
 - Tumor microenvironment atlas (391,963 cells)
 - Blood cells (335,916 cells)
 
-After filtering for normal tissue and specific cell types of interest, the final training dataset includes approximately ~2,460,000 cells across multiple tissues, representing over 68 distinct cell types. This provides a comprehensive training dataset for robust cell type identification.
+After filtering for normal tissue and specific cell types of interest, the final training dataset includes approximately 1,686,218 cells (after keeping cell types of interest for the test run) across multiple tissues, representing over 68 distinct cell types. This provides a comprehensive training dataset for robust cell type identification.
 
 ## Model Architecture
 Spoticell uses a novel dual-path architecture:
@@ -67,14 +67,14 @@ Spoticell uses a novel dual-path architecture:
    - Dropout rate of 0.1 for regularization
    - Produces final cell type probability distribution
 
-The complete model has approximately 2.3 million trainable parameters, making it lightweight enough for deployment while maintaining high accuracy.
+The complete model has approximately 17.261 million trainable parameters, making it lightweight enough for deployment while maintaining high accuracy.
 
 ## Current Results (Spoticell Test)
 The initial test implementation achieves:
 - F1 Score: 0.78 on validation data
 - Precision: 0.80+
 - Recall: 0.76+
-- Training time: ~24 hours on a single NVIDIA RTX 3090
+- Training time: ~21 hours on a single NVIDIA 1xA100 (40GB SXM4)
 
 The model was trained with the following hyperparameters:
 - Batch size: 16
